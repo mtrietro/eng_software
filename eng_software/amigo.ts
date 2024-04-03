@@ -5,4 +5,5 @@ export class Amigo extends Pessoa {
     private email: string
     private endereco: string
     private faixaEtaria: FaixaEtaria
+    
 }
